@@ -1,4 +1,7 @@
-# Address Labels and Compliance Score
+---
+title: Address Labels and Compliance Score
+description: How to Use MetaSleuth
+---
 
 ## Enhanced Address Labels
 

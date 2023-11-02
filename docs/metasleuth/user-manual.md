@@ -68,18 +68,27 @@ The user can add a note for the transaction. They can also see the transaction o
 
 ## Main Operations on the Map
 
-[img_2.png](images/img_2.png)
+![img_2.png](images/img_2.png)
 *MetaSleuth’s main UI components (the number is related to the icon on the figure)*
 
 ❶ The `filter` provides a filter for addresses/entities and tokens, allowing users to filter the specified addresses/tokens and generate the corresponding fund flow map based on them.
+
 ❷ The `Add Address` button enables users to add additional addresses and automatically create associations with existing addresses on the canvas.
+
 ❸ The `search` icon allows users to search for a specific address on the canvas and highlight it, making it easy to locate the corresponding address on the map quickly.
+
 ❹ The `Undo/Redo` button is one of the frequently used functions that allows users to undo or resume any operation after it has been performed.
+
 ❺ A `Reset` button that centers all nodes on the canvas and maintains a 100% zoom ratio to prevent loss of focus.
+
 ❻ The `layout` selector offers four layout options (left to right, right to left, top to bottom, and bottom to top) to accommodate different user reading habits.
+
 ❼ A `zoom ratio scale` that allows users to adjust the zoom ratio of the entire transaction flow map.
+
 ❽ The `Download` button lets you download the current analysis results locally in PNG or SVG format.
+
 ❾ The `Save` button allows users to save the current analysis results to their accounts.
+
 ❿ The `Share` button allows users to share the current analysis results to other platforms with a single click, with a customizable link expiration time. Users can also decide whether to include tags used in the analysis in the shared link (see the following Figure). 
 
 ## Share the Map
